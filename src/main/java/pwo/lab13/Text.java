@@ -10,6 +10,7 @@ public class Text {
 
 
 
+
     //Nie zawiera cyfr
     
     //Zawiera tylko cyfry

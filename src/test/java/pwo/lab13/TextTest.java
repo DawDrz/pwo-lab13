@@ -20,3 +20,4 @@ public class TextTest {
         assertFalse(Text.cont5Dig(str));
     }
 }
+

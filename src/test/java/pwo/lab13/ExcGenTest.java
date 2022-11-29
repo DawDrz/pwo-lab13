@@ -13,3 +13,4 @@ public class ExcGenTest {
         assertTrue(exception.getMessage().contains(ExcGen.MESSAGE_1));
     }
 }
+

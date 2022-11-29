@@ -13,3 +13,4 @@ public class NumberTest {
         assertTrue(Number.isOdd(number));
     }
 }
+

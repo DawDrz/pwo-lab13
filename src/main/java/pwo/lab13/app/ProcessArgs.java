@@ -24,6 +24,7 @@ public class ProcessArgs {
         */
     }
     
+    
     /*
         Wyszukuje w tablicy stringów pozycje, które mogą być
         zinterpretowane jako liczby. Tworzy z tych liczb tablicę.
